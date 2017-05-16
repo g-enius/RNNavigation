@@ -1,1 +1,3 @@
-# RNNavigation \n A demo using React Navigation as TabViewContoller and NavigationController
+# RNNavigation 
+
+A demo using React Navigation as TabViewContoller and NavigationController
